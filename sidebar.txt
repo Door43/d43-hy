@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hy:home|Door43 (hy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hy|d43-hy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hy/archive/master.zip|d43-hy.zip]]
+
+**Recent Changes**
+{{changes>ns = hy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hy|Ethnologue data]]
+
